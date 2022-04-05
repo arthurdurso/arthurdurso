@@ -31,7 +31,7 @@ Editor e Gerenciador que eu uso: <br/>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" title = 'Anaconda' /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" title = 'VS Code' /></code>
 <br/>
-Bibliotecas que uso para Análise de Dados:
+Alguma das bibliotecas que uso para Análise de Dados:
 <br/>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40" height="40" title = 'Numpy' /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" title = 'Pandas' /></code>
