@@ -33,7 +33,7 @@ Editor e Gerenciador que eu uso: <br/>
 <br/>
 Alguma das bibliotecas que uso para Análise de Dados:
 <br/>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40" height="40" title = 'Numpy' /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40" height="40" title = 'NumPy' /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" title = 'Pandas' /></code>
 <br/>
 Ferramentas que estou incluindo para meu conhecimento:
