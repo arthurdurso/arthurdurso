@@ -3,7 +3,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 
-- 📚 Graduando em Ciências Matemáticas e da Terra com ênfase em Análise de Suporte à Decisão - Universidade Federal do Rio de Janeiro
+- 📚 Graduando em Ciências Matemáticas e da Terra (BCMT) com ênfase em Análise de Suporte à Decisão - Universidade Federal do Rio de Janeiro (UFRJ)
 
 - 💻 Bolsista de Iniciação Científica com tema em monitoramento do tempo e clima da Terra com arquivos NetCDF.
 
