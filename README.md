@@ -24,6 +24,7 @@
 Linguagens de Programação que eu conheço:<br/>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title = 'Python' /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title = 'MySQL' /></code>
+<code><img src="https://cygri.github.io/rdf-logos/svg/turtle.svg" width="40" height="40" title = 'Turtle' /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40" title = 'RStudio' /></code>
 <br/>
 ### Ferramentas
@@ -39,7 +40,6 @@ Alguma das bibliotecas que uso para Análise de Dados:
 Ferramentas que estou incluindo para meu conhecimento:
 <br/>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" width="40" height="40" title = 'Kaggle' /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" title = 'Flask' /></code>
 
 ##
 ### Contatos:
