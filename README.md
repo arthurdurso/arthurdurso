@@ -1,17 +1,17 @@
-# Olá, me chamo Arthur Durso ! 
+# Hello! My name's Arthur Durso ! 
 
-## Bem vindo ao meu perfil GitHub 👋
+## Welcome to my GitHub profile! 👋
 
 
-- 📚 Formado em Ciências Matemáticas e da Terra (BCMT) - Universidade Federal do Rio de Janeiro (UFRJ)
+- 📚 Graduated in Mathematical and Earth Sciences (BCMT) - Universidade Federal do Rio de Janeiro (UFRJ)
 
-- 💻 Atuando como Analista de Dados e estudando para ser Engenheiro de Dados, me motivando a estudar e codar sempre!
+- 💻 Working as a Data Analyst and studying to be a Data Engineer, motivating me to study and code always!
 
-- 🎮 Sou gamer e gosto muito de jogar em meus dias livres! 🎮
+- 🎮 I'm gamer and I really enjoy my free days playing games! 🎮
 <br/>
 
 <p align="center">
-  Como eu me sinto Programando 🤓 <br/>
+  How I feel when I'm programming 🤓 <br/>
   <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="350">
 </p>
 
@@ -35,7 +35,7 @@
 
 
 ##
-### Contatos:
+### Contacts:
 
 <div align="center"> 
 <a href = "mailto:dursoarthur@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
