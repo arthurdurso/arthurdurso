@@ -1,4 +1,4 @@
-# Hello! My name's Arthur Durso ! 
+# Hey, my name's Arthur Durso ! 
 
 ## Welcome to my GitHub profile! 👋
 
