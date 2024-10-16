@@ -7,7 +7,7 @@
 
 - 💻 Working as a Data Analyst and studying to be a Data Engineer, motivating me to study and code always!
 
-- 🎮 I'm gamer and I really enjoy my free days playing games! 🎮
+- 🎮 I'm gamer and I really enjoy playing game in my free time! 🎮
 <br/>
 
 <p align="center">
@@ -36,8 +36,5 @@
 
 ##
 ### Contacts:
-
-<div align="center"> 
-<a href = "mailto:dursoarthur@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/arthurdurso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dursoarthur@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurdurso)
